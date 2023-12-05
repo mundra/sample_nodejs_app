@@ -1,0 +1,12 @@
+{
+  "name": "NodeJS App",
+  "version": "1.0.0",
+  "description": "Sample NodeJS Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Piyush Mundra",
+  "license": "ISC"
+}
