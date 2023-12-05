@@ -39,7 +39,7 @@ _Below is an example of how you can instruct your audience on installing and set
 3. Docker build & run
    ```sh
    docker build . -t sample_nodejs_app
-   docker run -it sample_nodejs_app
+   docker run -it -p 8080:8080 sample_nodejs_app
 
    ```
 
